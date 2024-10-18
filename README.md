@@ -17,7 +17,7 @@ git init
 
 Tampilan dari hasil perintah `git init`:
 
-![git init](./images/git-init.png)
+![git init](./git_init.png)
 
 ---
 
@@ -31,7 +31,7 @@ git add .
 
 Tampilan dari hasil perintah `git add .`:
 
-![git add](./images/git-add.png)
+![git add](./git_add.png)
 
 ---
 
@@ -45,7 +45,7 @@ git commit -m "Pesan commit"
 
 Tampilan dari hasil perintah `git commit`:
 
-![git commit](./images/git-commit.png)
+![git commit](./git_commit.png)
 
 ---
 
@@ -59,7 +59,7 @@ git status
 
 Tampilan dari hasil perintah `git status`:
 
-![git status](./images/git-status.png)
+![git status](./git_status.png)
 
 ---
 
@@ -73,7 +73,7 @@ git remote add origin https://github.com/nabilcuy/tugas-eduwork.git
 
 Tampilan dari hasil perintah `git remote add`:
 
-![git remote](./images/git-remote.png)
+![git remote](./git_remote.png)
 
 ---
 
@@ -87,7 +87,7 @@ git push origin main
 
 Tampilan dari hasil perintah `git push`:
 
-![git push](./images/git-push.png)
+![git push](./git_push.png)
 
 ---
 
